@@ -127,3 +127,7 @@ a {
   text-decoration: none;
   color: #1b1c21;
 }
+
+button {
+  cursor: pointer;
+}
